@@ -1,0 +1,94 @@
+@charset "UTF-8";
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-image: linear-gradient(to left, #FAF2AF,#DEB1B9,#DEC087);
+    height: 99vh;
+    width: 98vw;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+img#principal {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+img#fundo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+    width: 269px ;
+    height: 478px ;
+}
+img.logos {
+    position: absolute;
+    border-radius: 20% ;
+    width: 60px;
+
+}
+img#face {
+    position: absolute;
+    left: 44%;
+    top: 20%;
+    transform: translate(-50%,-50%);
+}
+img#github {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%,-50%);
+}
+img#insta {
+    position: absolute;
+    left: 56%;
+    top: 20%;
+    transform: translate(-50%,-50%);
+}
+img#linkedin {
+    position: absolute;
+    left: 44%;
+    top: 35%;
+    transform: translate(-50%,-50%);
+}
+img#youtube {
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%,-50%);
+}
+img#twitter {
+    position: absolute;
+    left: 56%;
+    top: 35%;
+    transform: translate(-50%,-50%);
+}
+img#google {
+    position: absolute;
+    left: 44%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+img#telegram {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+img#ifood {
+    position: absolute;
+    left: 56%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+img#gmail {
+    position: absolute;
+    left: 44%;
+    top: 63%;
+    transform: translate(-50%,-50%);
+}
