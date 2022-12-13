@@ -10,7 +10,7 @@ Git e Github
 💻 Projeto
 Realizados os desafios do curso de HTML e CSS do Curso em Vídeo, confira abaixo:
 
- Desafio 1 - <a href="https://amandadpo.github.io/html-css/des001/">Desafio 01</a> <br>
+ <a href="https://amandadpo.github.io/html-css/des001/">Desafio 01</a> <br>
  <a href="https://amandadpo.github.io/html-css/des002/">Desafio 02</a> <br>
  <a href="https://amandadpo.github.io/html-css/des003/">Desafio 03</a> <br>
  <a href="https://amandadpo.github.io/html-css/des004/">Desafio 04</a> <br>
